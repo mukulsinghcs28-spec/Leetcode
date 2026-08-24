@@ -9,7 +9,7 @@
 | **Tags** | Array, Math |
 | **Link** | [View Problem](https://leetcode.com/problems/plus-one/) |
 | **Runtime** | 0 ms |
-| **Memory** | 42.9 MB |
+| **Memory** | 43.6 MB |
 
 ## Problem Description
 
