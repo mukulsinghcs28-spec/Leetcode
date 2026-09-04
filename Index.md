@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Plus One](./LeetCode/Easy/Plus%20One) - *Easy*
 - [Remove Element](./LeetCode/Easy/Remove%20Element) - *Easy*
