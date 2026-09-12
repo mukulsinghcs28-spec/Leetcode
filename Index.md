@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
 - [Pascal's Triangle II](./LeetCode/Easy/Pascals%20Triangle%20II) - *Easy*
 - [Pascal's Triangle](./LeetCode/Easy/Pascals%20Triangle) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
