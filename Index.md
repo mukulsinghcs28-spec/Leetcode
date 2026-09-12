@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Pascal's Triangle](./LeetCode/Easy/Pascals%20Triangle) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) - *Easy*
 - [Union of 2 Sorted Arrays](./GeeksForGeeks/Medium/Union%20of%202%20Sorted%20Arrays) - *Medium*
