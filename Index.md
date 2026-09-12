@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Pascal's Triangle II](./LeetCode/Easy/Pascals%20Triangle%20II) - *Easy*
 - [Pascal's Triangle](./LeetCode/Easy/Pascals%20Triangle) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) - *Easy*
