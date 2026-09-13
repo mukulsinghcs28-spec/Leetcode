@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [Multiply 2 Matrices](./GeeksForGeeks/Medium/Multiply%202%20Matrices) - *Medium*
 - [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) - *Medium*
 - [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) - *Medium*
