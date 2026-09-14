@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
