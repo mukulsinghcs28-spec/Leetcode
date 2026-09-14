@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [Multiply 2 Matrices](./GeeksForGeeks/Medium/Multiply%202%20Matrices) - *Medium*
