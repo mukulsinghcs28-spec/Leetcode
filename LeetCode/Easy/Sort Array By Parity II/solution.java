@@ -13,6 +13,8 @@ class Solution {
                 int temp = nums[j];
                 nums[j] = nums[i];
                 nums[i] = temp;
+                i+=2;
+                j+=2;
             }
         }
         return nums;
