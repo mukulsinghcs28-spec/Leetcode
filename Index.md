@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) - *Easy*
 - [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) - *Medium*
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
