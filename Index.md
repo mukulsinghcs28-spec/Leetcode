@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Spiral Matrix II](./LeetCode/Medium/Spiral%20Matrix%20II) - *Medium*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
 - [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
