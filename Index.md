@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Spiral Matrix II](./LeetCode/Medium/Spiral%20Matrix%20II) - *Medium*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
