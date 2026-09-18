@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Maximum Count of Positive Integer and Negative Integer](./LeetCode/Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) - *Easy*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
 - [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
