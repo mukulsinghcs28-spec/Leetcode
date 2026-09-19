@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sqrt(x)](./LeetCode/Easy/Sqrtx) - *Easy*
 - [Floor in a Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20a%20Sorted%20Array) - *Easy*
 - [Maximum Count of Positive Integer and Negative Integer](./LeetCode/Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) - *Easy*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
