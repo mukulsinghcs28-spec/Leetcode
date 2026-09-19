@@ -1,47 +1,43 @@
  class Solution {
     public int maximumCount(int[] nums) {
-        
         int n = nums.length;
 
-        int negative = lowerBound(nums, 0);
-        int positive = n - upperBound(nums, 0);
+        int firstPositive = firstPositive(nums);
+        int firstNonNegative = firstNonNegative(nums);
 
-        return Math.max(negative, positive);
+        int positive = n - firstPositive;
+        int negative = firstNonNegative;
+
+        return Math.max(positive, negative);
     }
 
-    
-    private int lowerBound(int[] nums, int target) {
-        int low = 0;
-        int high = nums.length;
+    private int firstPositive(int[] nums) {
+        int lo = 0, hi = nums.length - 1;
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
 
-            if (nums[mid] >= target) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
+            if (nums[mid] > 0)
+                hi = mid - 1;
+            else
+                lo = mid + 1;
         }
 
-        return low;
+        return lo;
     }
 
+    private int firstNonNegative(int[] nums) {
+        int lo = 0, hi = nums.length - 1;
 
-    private int upperBound(int[] nums, int target) {
-        int low = 0;
-        int high = nums.length;
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            if (nums[mid] > target) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
+            if (nums[mid] >= 0)
+                hi = mid - 1;
+            else
+                lo = mid + 1;
         }
 
-        return low;
+        return lo;
     }
 }
