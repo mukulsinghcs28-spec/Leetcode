@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) - *Easy*
 - [Sqrt(x)](./LeetCode/Easy/Sqrtx) - *Easy*
 - [Floor in a Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20a%20Sorted%20Array) - *Easy*
