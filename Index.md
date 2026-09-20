@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) - *Easy*
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) - *Easy*
