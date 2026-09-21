@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Sum of all substrings of a number](./GeeksForGeeks/Medium/Sum%20of%20all%20substrings%20of%20a%20number) - *Medium*
 - [Change the Case based on First Character](./GeeksForGeeks/Easy/Change%20the%20Case%20based%20on%20First%20Character) - *Easy*
 - [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) - *Easy*
