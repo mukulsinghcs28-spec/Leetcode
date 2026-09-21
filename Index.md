@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sum of all substrings of a number](./GeeksForGeeks/Medium/Sum%20of%20all%20substrings%20of%20a%20number) - *Medium*
 - [Change the Case based on First Character](./GeeksForGeeks/Easy/Change%20the%20Case%20based%20on%20First%20Character) - *Easy*
 - [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) - *Easy*
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
