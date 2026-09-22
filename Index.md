@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Non Repeating Character](./GeeksForGeeks/Easy/Non%20Repeating%20Character) - *Easy*
 - [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Sum of all substrings of a number](./GeeksForGeeks/Medium/Sum%20of%20all%20substrings%20of%20a%20number) - *Medium*
