@@ -1,19 +1,20 @@
-class Solution {
-    public boolean isAnagram(String s, String t) {
+import java.util.Arrays;
 
-        if (s.length() != t.length()) {
+class Solution {
+    public boolean isAnagram(String s1, String s2) {
+
+        if (s1.length() != s2.length()) {
             return false;
         }
 
-        int[] count = new int[26];
+        char[] arr1 = s1.toCharArray();
+        char[] arr2 = s2.toCharArray();
 
-        for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
-        }
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
 
-        for (int i = 0; i < 26; i++) {
-            if (count[i] != 0) {
+        for (int i = 0; i < arr1.length; i++) {
+            if (arr1[i] != arr2[i]) {
                 return false;
             }
         }
