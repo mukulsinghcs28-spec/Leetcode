@@ -1,0 +1,33 @@
+class Solution {
+    public String toGoatLatin(String sentence) {
+
+        String[] words = sentence.split(" ");
+        StringBuilder ans = new StringBuilder();
+
+        for (int i = 0; i < words.length; i++) {
+
+            String word = words[i];
+
+            
+            if ("aeiouAEIOU".indexOf(word.charAt(0)) == -1) {
+                word = word.substring(1) + word.charAt(0);
+            }
+
+            
+            word += "ma";
+
+            for (int j = 0; j <= i; j++) {
+                word += "a";
+            }
+
+            ans.append(word);
+
+            
+            if (i < words.length - 1) {
+                ans.append(" ");
+            }
+        }
+
+        return ans.toString();
+    }
+}
