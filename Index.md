@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) - *Easy*
 - [Non Repeating Character](./GeeksForGeeks/Easy/Non%20Repeating%20Character) - *Easy*
 - [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) - *Easy*
