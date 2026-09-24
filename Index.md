@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) - *Easy*
