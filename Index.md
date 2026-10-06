@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
 - [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) - *Easy*
 - [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) - *Easy*
 - [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
